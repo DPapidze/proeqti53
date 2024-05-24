@@ -1,0 +1,26 @@
+.box1{
+    margin-top: 77px;
+    margin-left: 3px;
+    height: 160px;
+    width: 350px;
+    text-align: center;
+    color: #777777;
+}
+
+.box2{
+    width: 1280px;
+    height: 26px;
+    top: 50px;
+    text-align: center;
+    color: #001AFF;
+    font-weight: bold;
+}
+
+.box3{
+    margin-top: 30px;
+    margin-left: 72px;
+    height: 300px;
+    width: 300px;
+    text-align: justify;
+    color: #FF0000;
+}
